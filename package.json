@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "tdesign-icons-vue": "0.0.7",
+    "tdesign-vue": "^0.32.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
